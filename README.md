@@ -8,6 +8,9 @@ A tutorial for Raspberry Pi 4.
 https://github.com/boboyejj/RaspberryPi
 
 ## Tutorials
+子豪兄的零基础树莓派教程，代码存放地及更新勘误
+https://github.com/TommyZihao/ZihaoTutorialOfRaspberryPi
+
 ### Python版
 树莓派(Raspberry Pi)资源大全中文版
 awesome-raspberry-pi-zh <https://github.com/wwj718/awesome-raspberry-pi-zh>
@@ -33,6 +36,16 @@ Operating System development tutorials in Rust on the Raspberry Pi <https://gith
 https://github.com/mcdona1d/RaspberryWechatPi
 <基于树莓派的智能家居控制平台 微信服务端 发布版>
 <可以实现以手机微信端对树莓派终端进行实时监控、摄像头云台操纵、闯入报警、温度检测、灯光控制、自动光线控制等功能>
+
+
+https://github.com/TommyZihao/zihaoopencv
+zihao's tutorial of opencv-python
+
+
+https://github.com/TommyZihao/raspberrypi-slam-ros-car
+基于ROS机器人操作系统的树莓派智能小车，通过激光雷达、摄像头、IMU感知环境并构建地图，可实现多点自动导航、循迹、避障、跟随、hector算法构建slam地图、karto算法构建slam地图、opencv图像处理等功能。可通过安卓手机app进行地图构建与多点导航。
+
+
 
 ### Rust版
 Rust: Actix Web Server on Raspberrypi/Laptop(Alternative)
