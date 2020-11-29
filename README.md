@@ -29,6 +29,9 @@ Operating System development tutorials in Rust on the Raspberry Pi <https://gith
 <Learn to write an embedded OS in Rust >
 
 
+https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+
+
 ## 实战项目
 
 ### Python版
